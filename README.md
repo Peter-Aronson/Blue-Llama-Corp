@@ -21,3 +21,4 @@ Phase 4: QA/Testing - Beginning 10/22/2026 and Ending 10/26/2026 - 4 days (4 day
 ### Hour Tracker:
 Hours Spent In Total: **5 Hours** <br>
 9/27/2026 - 5 Hours - See Changelog: V1.0.0 <br>
+10/03/2026 - 12 Hours - See Changelog: V1.0.1 <br>
