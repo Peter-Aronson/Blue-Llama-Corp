@@ -14,7 +14,7 @@ This project will follow a custom Waterfall methodology. The idea is to sequenti
 
 ### Project Planned Timeline:
 Phase 1: Planning - Beginning 9/23/2026 and Ending 9/27/2026 - 4 days (0 days remaining)..............................COMPLETED: [✔]<br>
-Phase 2: Infra. Design - Beginning 9/27/2026 and Ending 10/10/2026 - 14 days (13 days remaining)...............COMPLETED: [❌]<br>
+Phase 2: Infra. Design - Beginning 9/27/2026 and Ending 10/10/2026 - 14 days (7 days remaining)...............COMPLETED: [❌]<br>
 Phase 3: Implementation - Beginning 10/10/2026 and Ending 10/22/2026 - 12 days (12 days remaining)......COMPLETED: [❌]<br>
 Phase 4: QA/Testing - Beginning 10/22/2026 and Ending 10/26/2026 - 4 days (4 days remaining).....................COMPLETED: [❌]<br>
 
